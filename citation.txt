@@ -1,0 +1,8 @@
+@article{REPO399,
+    author = "Chen, Xu and Zhang, Ya and Tsang, Ivor W. and Pan, Yuangang and Su, Jingchao",
+    journal = "ACM Trans. Inf. Syst.",
+    number = "1",
+    title = "{Toward Equivalent Transformation of User Preferences in Cross Domain Recommendation}",
+    volume = "41",
+    year = "2023"
+}
