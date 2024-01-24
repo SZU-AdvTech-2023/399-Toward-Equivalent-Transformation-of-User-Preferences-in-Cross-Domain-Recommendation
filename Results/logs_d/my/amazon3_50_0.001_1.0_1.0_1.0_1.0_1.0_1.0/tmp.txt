@@ -1,0 +1,603 @@
+epoch:0, self loss:6529259.8140, cross loss:5961034.5320, G loss:433.1773, D loss:512.5300, reg loss:8951.6826
+test: movie: hr:0.0937,ndcg:0.0426,mrr:0.0275, book: hr:0.0978,ndcg:0.0445,mrr:0.0288
+epoch:1, self loss:1401757.2282, cross loss:399028.1145, G loss:972.9414, D loss:231.4747, reg loss:93632.5547
+test: movie: hr:0.1491,ndcg:0.0753,mrr:0.0533, book: hr:0.1581,ndcg:0.0842,mrr:0.0621
+epoch:2, self loss:290457.7351, cross loss:170194.3149, G loss:1318.7286, D loss:132.1346, reg loss:65278.3663
+test: movie: hr:0.2050,ndcg:0.1123,mrr:0.0843, book: hr:0.2225,ndcg:0.1312,mrr:0.1034
+epoch:3, self loss:132941.9444, cross loss:84383.2276, G loss:1430.1339, D loss:97.8508, reg loss:34957.8360
+test: movie: hr:0.2199,ndcg:0.1211,mrr:0.0913, book: hr:0.2455,ndcg:0.1449,mrr:0.1142
+epoch:4, self loss:81548.1427, cross loss:65277.7554, G loss:1571.4976, D loss:78.5404, reg loss:24969.5701
+test: movie: hr:0.2338,ndcg:0.1279,mrr:0.0959, book: hr:0.2596,ndcg:0.1531,mrr:0.1206
+epoch:5, self loss:67853.2758, cross loss:61930.7939, G loss:1701.4241, D loss:62.4589, reg loss:19030.5968
+test: movie: hr:0.2407,ndcg:0.1317,mrr:0.0987, book: hr:0.2694,ndcg:0.1592,mrr:0.1256
+epoch:6, self loss:64222.1725, cross loss:61032.9062, G loss:1805.5953, D loss:53.7645, reg loss:14468.8738
+test: movie: hr:0.2480,ndcg:0.1352,mrr:0.1011, book: hr:0.2763,ndcg:0.1645,mrr:0.1303
+epoch:7, self loss:60907.3291, cross loss:59960.2436, G loss:1882.4166, D loss:47.4557, reg loss:10928.4426
+test: movie: hr:0.2548,ndcg:0.1371,mrr:0.1015, book: hr:0.2818,ndcg:0.1671,mrr:0.1320
+epoch:8, self loss:57336.3357, cross loss:58114.5534, G loss:1965.1039, D loss:41.3209, reg loss:8095.4013
+test: movie: hr:0.2580,ndcg:0.1383,mrr:0.1021, book: hr:0.2864,ndcg:0.1685,mrr:0.1325
+epoch:9, self loss:56211.0891, cross loss:57168.0049, G loss:2024.1372, D loss:38.6826, reg loss:5930.0166
+test: movie: hr:0.2614,ndcg:0.1396,mrr:0.1029, book: hr:0.2904,ndcg:0.1701,mrr:0.1334
+epoch:10, self loss:54774.9117, cross loss:55964.7417, G loss:2102.1821, D loss:32.6128, reg loss:4408.3731
+test: movie: hr:0.2633,ndcg:0.1402,mrr:0.1032, book: hr:0.2928,ndcg:0.1716,mrr:0.1346
+epoch:11, self loss:54259.1569, cross loss:55155.9320, G loss:2135.9542, D loss:32.1840, reg loss:3414.5148
+test: movie: hr:0.2638,ndcg:0.1410,mrr:0.1039, book: hr:0.2941,ndcg:0.1719,mrr:0.1346
+epoch:12, self loss:53474.0192, cross loss:55346.8100, G loss:2163.3243, D loss:27.5417, reg loss:2719.0137
+test: movie: hr:0.2641,ndcg:0.1415,mrr:0.1045, book: hr:0.2939,ndcg:0.1722,mrr:0.1350
+epoch:13, self loss:52706.9037, cross loss:54013.0699, G loss:2216.6843, D loss:26.3296, reg loss:2286.8531
+test: movie: hr:0.2634,ndcg:0.1414,mrr:0.1046, book: hr:0.2935,ndcg:0.1720,mrr:0.1350
+epoch:14, self loss:52007.7452, cross loss:53142.1748, G loss:2267.6775, D loss:24.5895, reg loss:1962.5922
+test: movie: hr:0.2639,ndcg:0.1415,mrr:0.1045, book: hr:0.2951,ndcg:0.1724,mrr:0.1349
+epoch:15, self loss:51829.7645, cross loss:53354.8049, G loss:2304.0432, D loss:23.0808, reg loss:1741.7605
+test: movie: hr:0.2641,ndcg:0.1414,mrr:0.1043, book: hr:0.2946,ndcg:0.1728,mrr:0.1356
+epoch:16, self loss:50700.1318, cross loss:52067.7898, G loss:2358.7982, D loss:21.0881, reg loss:1606.2628
+test: movie: hr:0.2655,ndcg:0.1423,mrr:0.1050, book: hr:0.2966,ndcg:0.1730,mrr:0.1353
+epoch:17, self loss:51162.0729, cross loss:52674.9011, G loss:2372.8507, D loss:21.0654, reg loss:1583.8792
+test: movie: hr:0.2647,ndcg:0.1419,mrr:0.1047, book: hr:0.2981,ndcg:0.1741,mrr:0.1363
+epoch:18, self loss:50767.3557, cross loss:51979.5150, G loss:2398.6046, D loss:18.5932, reg loss:1545.6498
+test: movie: hr:0.2649,ndcg:0.1420,mrr:0.1049, book: hr:0.2996,ndcg:0.1746,mrr:0.1365
+epoch:19, self loss:50373.1212, cross loss:51661.3521, G loss:2432.9962, D loss:18.0956, reg loss:1531.8979
+test: movie: hr:0.2647,ndcg:0.1420,mrr:0.1050, book: hr:0.2990,ndcg:0.1744,mrr:0.1363
+epoch:20, self loss:50937.7345, cross loss:52130.4259, G loss:2467.8932, D loss:17.3160, reg loss:1510.6765
+test: movie: hr:0.2660,ndcg:0.1421,mrr:0.1047, book: hr:0.2993,ndcg:0.1749,mrr:0.1369
+epoch:21, self loss:50236.3864, cross loss:51335.0927, G loss:2479.6356, D loss:17.2107, reg loss:1500.3235
+test: movie: hr:0.2668,ndcg:0.1431,mrr:0.1058, book: hr:0.3016,ndcg:0.1759,mrr:0.1375
+epoch:22, self loss:49318.7887, cross loss:50274.2763, G loss:2480.9359, D loss:17.0181, reg loss:1469.4042
+test: movie: hr:0.2672,ndcg:0.1437,mrr:0.1064, book: hr:0.3024,ndcg:0.1769,mrr:0.1386
+epoch:23, self loss:49775.1572, cross loss:50889.8984, G loss:2504.6977, D loss:16.1979, reg loss:1455.2192
+test: movie: hr:0.2668,ndcg:0.1432,mrr:0.1058, book: hr:0.3032,ndcg:0.1766,mrr:0.1380
+epoch:24, self loss:50500.3232, cross loss:51543.0281, G loss:2520.6942, D loss:13.3718, reg loss:1475.0762
+test: movie: hr:0.2660,ndcg:0.1426,mrr:0.1053, book: hr:0.3029,ndcg:0.1764,mrr:0.1378
+epoch:25, self loss:50031.0906, cross loss:50989.1239, G loss:2547.7222, D loss:14.7279, reg loss:1445.4009
+test: movie: hr:0.2668,ndcg:0.1436,mrr:0.1063, book: hr:0.3049,ndcg:0.1776,mrr:0.1388
+epoch:26, self loss:49562.2573, cross loss:50369.5370, G loss:2576.9944, D loss:14.9736, reg loss:1416.6353
+test: movie: hr:0.2655,ndcg:0.1429,mrr:0.1058, book: hr:0.3062,ndcg:0.1784,mrr:0.1394
+epoch:27, self loss:49492.9146, cross loss:50204.4362, G loss:2582.4713, D loss:14.1046, reg loss:1400.3379
+test: movie: hr:0.2669,ndcg:0.1435,mrr:0.1062, book: hr:0.3082,ndcg:0.1798,mrr:0.1406
+epoch:28, self loss:49700.5692, cross loss:50469.1324, G loss:2593.6055, D loss:13.8490, reg loss:1397.6292
+test: movie: hr:0.2677,ndcg:0.1435,mrr:0.1060, book: hr:0.3076,ndcg:0.1792,mrr:0.1400
+epoch:29, self loss:49757.5054, cross loss:50433.0367, G loss:2592.1002, D loss:13.2890, reg loss:1388.0337
+test: movie: hr:0.2671,ndcg:0.1433,mrr:0.1059, book: hr:0.3059,ndcg:0.1780,mrr:0.1389
+epoch:30, self loss:48359.7234, cross loss:49046.1496, G loss:2622.5449, D loss:13.0521, reg loss:1332.7638
+test: movie: hr:0.2657,ndcg:0.1427,mrr:0.1055, book: hr:0.3088,ndcg:0.1797,mrr:0.1404
+epoch:31, self loss:49017.5103, cross loss:49644.5749, G loss:2632.7656, D loss:11.6349, reg loss:1332.0079
+test: movie: hr:0.2655,ndcg:0.1426,mrr:0.1054, book: hr:0.3082,ndcg:0.1798,mrr:0.1406
+epoch:32, self loss:48392.7675, cross loss:48881.9134, G loss:2642.7140, D loss:13.0114, reg loss:1310.9460
+test: movie: hr:0.2696,ndcg:0.1446,mrr:0.1068, book: hr:0.3094,ndcg:0.1808,mrr:0.1416
+epoch:33, self loss:49969.1659, cross loss:50484.7211, G loss:2655.7895, D loss:11.0591, reg loss:1309.0165
+test: movie: hr:0.2697,ndcg:0.1442,mrr:0.1064, book: hr:0.3108,ndcg:0.1805,mrr:0.1407
+epoch:34, self loss:49525.2247, cross loss:50051.6969, G loss:2672.1994, D loss:11.9440, reg loss:1288.6770
+test: movie: hr:0.2696,ndcg:0.1443,mrr:0.1065, book: hr:0.3127,ndcg:0.1822,mrr:0.1424
+epoch:35, self loss:49392.8234, cross loss:49857.7489, G loss:2674.3156, D loss:11.6272, reg loss:1271.4056
+test: movie: hr:0.2685,ndcg:0.1444,mrr:0.1070, book: hr:0.3131,ndcg:0.1816,mrr:0.1415
+epoch:36, self loss:48660.2211, cross loss:49137.0608, G loss:2692.3479, D loss:11.1183, reg loss:1242.0520
+test: movie: hr:0.2665,ndcg:0.1434,mrr:0.1063, book: hr:0.3118,ndcg:0.1818,mrr:0.1421
+epoch:37, self loss:49142.9904, cross loss:49578.9474, G loss:2705.0679, D loss:11.1599, reg loss:1228.7576
+test: movie: hr:0.2701,ndcg:0.1445,mrr:0.1065, book: hr:0.3129,ndcg:0.1819,mrr:0.1420
+epoch:38, self loss:49251.8599, cross loss:49753.1982, G loss:2727.3297, D loss:10.7417, reg loss:1214.2117
+test: movie: hr:0.2692,ndcg:0.1447,mrr:0.1071, book: hr:0.3125,ndcg:0.1817,mrr:0.1418
+epoch:39, self loss:48648.0325, cross loss:49049.7824, G loss:2758.1036, D loss:11.9770, reg loss:1195.8433
+test: movie: hr:0.2691,ndcg:0.1447,mrr:0.1071, book: hr:0.3137,ndcg:0.1832,mrr:0.1433
+epoch:40, self loss:48242.1157, cross loss:48660.3297, G loss:2736.0247, D loss:11.1585, reg loss:1159.6828
+test: movie: hr:0.2688,ndcg:0.1437,mrr:0.1059, book: hr:0.3121,ndcg:0.1829,mrr:0.1435
+epoch:41, self loss:48023.4702, cross loss:48386.7268, G loss:2721.9925, D loss:10.4773, reg loss:1150.7635
+test: movie: hr:0.2694,ndcg:0.1451,mrr:0.1076, book: hr:0.3138,ndcg:0.1831,mrr:0.1432
+epoch:42, self loss:48758.4652, cross loss:49089.0640, G loss:2711.3385, D loss:11.2346, reg loss:1144.6261
+test: movie: hr:0.2700,ndcg:0.1444,mrr:0.1065, book: hr:0.3170,ndcg:0.1846,mrr:0.1442
+epoch:43, self loss:48906.3045, cross loss:49230.9459, G loss:2709.1731, D loss:9.7067, reg loss:1130.9542
+test: movie: hr:0.2694,ndcg:0.1445,mrr:0.1068, book: hr:0.3168,ndcg:0.1849,mrr:0.1447
+epoch:44, self loss:48614.8784, cross loss:48950.4030, G loss:2728.5539, D loss:10.7018, reg loss:1112.6017
+test: movie: hr:0.2716,ndcg:0.1448,mrr:0.1065, book: hr:0.3166,ndcg:0.1842,mrr:0.1438
+epoch:45, self loss:49604.9993, cross loss:49937.7247, G loss:2727.1379, D loss:10.5745, reg loss:1100.7003
+test: movie: hr:0.2700,ndcg:0.1451,mrr:0.1074, book: hr:0.3175,ndcg:0.1841,mrr:0.1434
+epoch:46, self loss:48517.1580, cross loss:48826.0526, G loss:2738.4472, D loss:11.2184, reg loss:1076.3053
+test: movie: hr:0.2692,ndcg:0.1444,mrr:0.1066, book: hr:0.3166,ndcg:0.1841,mrr:0.1436
+epoch:47, self loss:49074.0827, cross loss:49381.9366, G loss:2751.2529, D loss:9.8991, reg loss:1058.3476
+test: movie: hr:0.2697,ndcg:0.1446,mrr:0.1069, book: hr:0.3173,ndcg:0.1851,mrr:0.1447
+epoch:48, self loss:48923.1511, cross loss:49092.2722, G loss:2740.8663, D loss:9.6946, reg loss:1037.2600
+test: movie: hr:0.2677,ndcg:0.1437,mrr:0.1062, book: hr:0.3166,ndcg:0.1850,mrr:0.1447
+epoch:49, self loss:48027.0665, cross loss:48288.1832, G loss:2755.0013, D loss:10.6128, reg loss:1010.0137
+test: movie: hr:0.2693,ndcg:0.1439,mrr:0.1060, book: hr:0.3192,ndcg:0.1867,mrr:0.1462
+epoch:50, self loss:47928.3785, cross loss:48209.0103, G loss:2763.7993, D loss:9.8543, reg loss:1008.9609
+test: movie: hr:0.2693,ndcg:0.1446,mrr:0.1069, book: hr:0.3182,ndcg:0.1855,mrr:0.1450
+epoch:51, self loss:48400.0498, cross loss:48660.6536, G loss:2745.4782, D loss:10.9583, reg loss:993.9258
+test: movie: hr:0.2674,ndcg:0.1444,mrr:0.1072, book: hr:0.3202,ndcg:0.1861,mrr:0.1453
+epoch:52, self loss:47940.3739, cross loss:48220.6741, G loss:2760.1691, D loss:10.0973, reg loss:974.5309
+test: movie: hr:0.2684,ndcg:0.1445,mrr:0.1070, book: hr:0.3192,ndcg:0.1860,mrr:0.1454
+epoch:53, self loss:48634.7427, cross loss:48949.0811, G loss:2766.0285, D loss:9.8373, reg loss:964.4517
+test: movie: hr:0.2672,ndcg:0.1446,mrr:0.1075, book: hr:0.3181,ndcg:0.1853,mrr:0.1447
+epoch:54, self loss:48448.8656, cross loss:48719.4870, G loss:2746.0779, D loss:10.2367, reg loss:951.6409
+test: movie: hr:0.2669,ndcg:0.1445,mrr:0.1075, book: hr:0.3196,ndcg:0.1859,mrr:0.1451
+epoch:55, self loss:48016.3911, cross loss:48301.8555, G loss:2758.8276, D loss:10.6591, reg loss:940.2616
+test: movie: hr:0.2695,ndcg:0.1454,mrr:0.1079, book: hr:0.3203,ndcg:0.1856,mrr:0.1445
+epoch:56, self loss:48919.7170, cross loss:49189.2582, G loss:2738.3486, D loss:9.7019, reg loss:928.0789
+test: movie: hr:0.2683,ndcg:0.1435,mrr:0.1059, book: hr:0.3215,ndcg:0.1867,mrr:0.1456
+epoch:57, self loss:48526.0409, cross loss:48739.8233, G loss:2739.2978, D loss:9.4926, reg loss:901.1697
+test: movie: hr:0.2675,ndcg:0.1446,mrr:0.1074, book: hr:0.3202,ndcg:0.1867,mrr:0.1459
+epoch:58, self loss:48483.8421, cross loss:48751.5548, G loss:2744.5507, D loss:10.1226, reg loss:898.2757
+test: movie: hr:0.2697,ndcg:0.1448,mrr:0.1070, book: hr:0.3203,ndcg:0.1869,mrr:0.1462
+epoch:59, self loss:48942.4866, cross loss:49151.7476, G loss:2756.0285, D loss:9.3744, reg loss:879.2999
+test: movie: hr:0.2685,ndcg:0.1438,mrr:0.1061, book: hr:0.3222,ndcg:0.1874,mrr:0.1463
+epoch:60, self loss:49807.9979, cross loss:50048.0613, G loss:2777.4622, D loss:9.0584, reg loss:899.9575
+test: movie: hr:0.2688,ndcg:0.1442,mrr:0.1066, book: hr:0.3234,ndcg:0.1873,mrr:0.1459
+epoch:61, self loss:47375.7247, cross loss:47634.9419, G loss:2782.3936, D loss:11.2609, reg loss:859.0322
+test: movie: hr:0.2693,ndcg:0.1447,mrr:0.1071, book: hr:0.3223,ndcg:0.1873,mrr:0.1461
+epoch:62, self loss:48478.2114, cross loss:48746.7402, G loss:2779.6271, D loss:9.0911, reg loss:855.0883
+test: movie: hr:0.2701,ndcg:0.1450,mrr:0.1073, book: hr:0.3197,ndcg:0.1870,mrr:0.1464
+epoch:63, self loss:48143.4069, cross loss:48401.7345, G loss:2784.6999, D loss:11.0882, reg loss:838.5150
+test: movie: hr:0.2694,ndcg:0.1446,mrr:0.1069, book: hr:0.3213,ndcg:0.1875,mrr:0.1466
+epoch:64, self loss:48913.2295, cross loss:49212.1991, G loss:2775.3938, D loss:9.9293, reg loss:826.8624
+test: movie: hr:0.2688,ndcg:0.1448,mrr:0.1072, book: hr:0.3236,ndcg:0.1874,mrr:0.1459
+epoch:65, self loss:48030.0061, cross loss:48324.8216, G loss:2788.8239, D loss:10.1321, reg loss:810.4187
+test: movie: hr:0.2704,ndcg:0.1463,mrr:0.1089, book: hr:0.3234,ndcg:0.1879,mrr:0.1465
+epoch:66, self loss:48018.5899, cross loss:48282.7712, G loss:2805.9693, D loss:9.5722, reg loss:806.2702
+test: movie: hr:0.2708,ndcg:0.1456,mrr:0.1078, book: hr:0.3243,ndcg:0.1878,mrr:0.1462
+epoch:67, self loss:47461.6281, cross loss:47758.7361, G loss:2796.2423, D loss:9.9349, reg loss:784.6276
+test: movie: hr:0.2720,ndcg:0.1460,mrr:0.1080, book: hr:0.3236,ndcg:0.1881,mrr:0.1468
+epoch:68, self loss:47207.8624, cross loss:47474.9424, G loss:2790.4803, D loss:9.5965, reg loss:776.3777
+test: movie: hr:0.2706,ndcg:0.1462,mrr:0.1086, book: hr:0.3232,ndcg:0.1877,mrr:0.1464
+epoch:69, self loss:47614.4832, cross loss:47894.3219, G loss:2795.6195, D loss:10.1442, reg loss:773.8843
+test: movie: hr:0.2712,ndcg:0.1467,mrr:0.1091, book: hr:0.3234,ndcg:0.1880,mrr:0.1467
+epoch:70, self loss:47111.2692, cross loss:47364.9670, G loss:2779.3183, D loss:10.0847, reg loss:764.7102
+test: movie: hr:0.2725,ndcg:0.1482,mrr:0.1107, book: hr:0.3245,ndcg:0.1881,mrr:0.1465
+epoch:71, self loss:47692.9748, cross loss:47997.0992, G loss:2760.9048, D loss:10.2715, reg loss:759.8319
+test: movie: hr:0.2741,ndcg:0.1473,mrr:0.1089, book: hr:0.3238,ndcg:0.1879,mrr:0.1464
+epoch:72, self loss:47998.4944, cross loss:48119.1279, G loss:2765.7908, D loss:9.6894, reg loss:743.1490
+test: movie: hr:0.2734,ndcg:0.1489,mrr:0.1114, book: hr:0.3254,ndcg:0.1891,mrr:0.1475
+epoch:73, self loss:48241.2591, cross loss:48521.4528, G loss:2762.8880, D loss:9.6061, reg loss:724.2314
+test: movie: hr:0.2723,ndcg:0.1477,mrr:0.1100, book: hr:0.3253,ndcg:0.1888,mrr:0.1471
+epoch:74, self loss:47473.5892, cross loss:47802.3216, G loss:2769.3980, D loss:9.2677, reg loss:710.0756
+test: movie: hr:0.2756,ndcg:0.1488,mrr:0.1105, book: hr:0.3250,ndcg:0.1882,mrr:0.1464
+epoch:75, self loss:47275.9806, cross loss:47537.9809, G loss:2767.0446, D loss:9.8314, reg loss:692.9979
+test: movie: hr:0.2762,ndcg:0.1495,mrr:0.1111, book: hr:0.3260,ndcg:0.1889,mrr:0.1471
+epoch:76, self loss:47388.6866, cross loss:47774.0168, G loss:2773.6165, D loss:11.3500, reg loss:697.0854
+test: movie: hr:0.2756,ndcg:0.1493,mrr:0.1111, book: hr:0.3266,ndcg:0.1893,mrr:0.1474
+epoch:77, self loss:47827.7730, cross loss:48144.0561, G loss:2772.0076, D loss:9.3585, reg loss:705.9050
+test: movie: hr:0.2743,ndcg:0.1495,mrr:0.1116, book: hr:0.3258,ndcg:0.1896,mrr:0.1481
+epoch:78, self loss:47684.7535, cross loss:47891.3203, G loss:2772.4611, D loss:9.2993, reg loss:697.9295
+test: movie: hr:0.2770,ndcg:0.1502,mrr:0.1118, book: hr:0.3280,ndcg:0.1905,mrr:0.1487
+epoch:79, self loss:48611.3853, cross loss:48879.8543, G loss:2781.2109, D loss:9.4306, reg loss:685.2230
+test: movie: hr:0.2779,ndcg:0.1504,mrr:0.1118, book: hr:0.3260,ndcg:0.1882,mrr:0.1462
+epoch:80, self loss:48207.2284, cross loss:48508.0866, G loss:2785.8779, D loss:9.8827, reg loss:683.9307
+test: movie: hr:0.2766,ndcg:0.1503,mrr:0.1121, book: hr:0.3263,ndcg:0.1895,mrr:0.1478
+epoch:81, self loss:47514.7084, cross loss:47593.7822, G loss:2771.4059, D loss:9.6689, reg loss:667.8986
+test: movie: hr:0.2773,ndcg:0.1510,mrr:0.1127, book: hr:0.3262,ndcg:0.1890,mrr:0.1471
+epoch:82, self loss:48189.7121, cross loss:48535.5541, G loss:2790.8924, D loss:9.6013, reg loss:663.2201
+test: movie: hr:0.2796,ndcg:0.1520,mrr:0.1135, book: hr:0.3262,ndcg:0.1904,mrr:0.1489
+epoch:83, self loss:47666.5584, cross loss:48001.6138, G loss:2799.4884, D loss:9.4451, reg loss:653.7985
+test: movie: hr:0.2809,ndcg:0.1526,mrr:0.1138, book: hr:0.3292,ndcg:0.1903,mrr:0.1479
+epoch:84, self loss:48012.1807, cross loss:48294.5650, G loss:2797.1588, D loss:9.6591, reg loss:637.2624
+test: movie: hr:0.2820,ndcg:0.1543,mrr:0.1157, book: hr:0.3298,ndcg:0.1915,mrr:0.1494
+epoch:85, self loss:47161.8972, cross loss:47492.2736, G loss:2800.3970, D loss:10.5976, reg loss:623.1140
+test: movie: hr:0.2815,ndcg:0.1540,mrr:0.1154, book: hr:0.3288,ndcg:0.1912,mrr:0.1493
+epoch:86, self loss:47733.2617, cross loss:48062.6094, G loss:2788.4854, D loss:8.9976, reg loss:628.3907
+test: movie: hr:0.2847,ndcg:0.1554,mrr:0.1163, book: hr:0.3305,ndcg:0.1908,mrr:0.1482
+epoch:87, self loss:47682.8254, cross loss:48012.4287, G loss:2792.4016, D loss:10.6754, reg loss:623.1893
+test: movie: hr:0.2847,ndcg:0.1566,mrr:0.1178, book: hr:0.3326,ndcg:0.1920,mrr:0.1491
+epoch:88, self loss:47987.6510, cross loss:48269.0628, G loss:2796.3372, D loss:9.3183, reg loss:618.2260
+test: movie: hr:0.2878,ndcg:0.1577,mrr:0.1184, book: hr:0.3308,ndcg:0.1916,mrr:0.1491
+epoch:89, self loss:47753.8308, cross loss:48045.5430, G loss:2790.4913, D loss:10.2475, reg loss:605.3674
+test: movie: hr:0.2861,ndcg:0.1575,mrr:0.1186, book: hr:0.3297,ndcg:0.1917,mrr:0.1495
+epoch:90, self loss:47655.2134, cross loss:47957.6666, G loss:2794.7177, D loss:11.2398, reg loss:599.1626
+test: movie: hr:0.2859,ndcg:0.1581,mrr:0.1194, book: hr:0.3315,ndcg:0.1921,mrr:0.1496
+epoch:91, self loss:47233.8616, cross loss:47510.8372, G loss:2801.8743, D loss:9.6973, reg loss:589.6872
+test: movie: hr:0.2888,ndcg:0.1594,mrr:0.1203, book: hr:0.3316,ndcg:0.1921,mrr:0.1497
+epoch:92, self loss:47262.8891, cross loss:47547.3267, G loss:2798.7298, D loss:11.7004, reg loss:584.0114
+test: movie: hr:0.2877,ndcg:0.1588,mrr:0.1197, book: hr:0.3312,ndcg:0.1922,mrr:0.1498
+epoch:93, self loss:47649.0264, cross loss:47975.5024, G loss:2789.5321, D loss:10.3740, reg loss:578.5854
+test: movie: hr:0.2897,ndcg:0.1599,mrr:0.1206, book: hr:0.3332,ndcg:0.1922,mrr:0.1492
+epoch:94, self loss:48199.7342, cross loss:48511.8588, G loss:2787.7926, D loss:9.2355, reg loss:574.2755
+test: movie: hr:0.2905,ndcg:0.1610,mrr:0.1218, book: hr:0.3327,ndcg:0.1928,mrr:0.1502
+epoch:95, self loss:47734.6202, cross loss:48010.6561, G loss:2789.2315, D loss:10.4335, reg loss:570.9053
+test: movie: hr:0.2890,ndcg:0.1606,mrr:0.1216, book: hr:0.3312,ndcg:0.1924,mrr:0.1501
+epoch:96, self loss:47157.7493, cross loss:47436.8517, G loss:2798.3654, D loss:10.0065, reg loss:562.6974
+test: movie: hr:0.2900,ndcg:0.1617,mrr:0.1227, book: hr:0.3315,ndcg:0.1927,mrr:0.1504
+epoch:97, self loss:47127.6041, cross loss:47449.0295, G loss:2780.4616, D loss:11.2808, reg loss:557.1731
+test: movie: hr:0.2927,ndcg:0.1625,mrr:0.1230, book: hr:0.3345,ndcg:0.1940,mrr:0.1511
+epoch:98, self loss:47176.9391, cross loss:47475.7988, G loss:2788.7542, D loss:10.0322, reg loss:561.6139
+test: movie: hr:0.2926,ndcg:0.1630,mrr:0.1237, book: hr:0.3318,ndcg:0.1933,mrr:0.1510
+epoch:99, self loss:46585.4167, cross loss:46833.7763, G loss:2790.0959, D loss:9.7216, reg loss:539.7432
+test: movie: hr:0.2921,ndcg:0.1624,mrr:0.1230, book: hr:0.3337,ndcg:0.1940,mrr:0.1514
+epoch:100, self loss:47174.9651, cross loss:47457.9367, G loss:2801.1630, D loss:10.0182, reg loss:538.5599
+test: movie: hr:0.2949,ndcg:0.1636,mrr:0.1237, book: hr:0.3357,ndcg:0.1947,mrr:0.1517
+epoch:101, self loss:47489.3867, cross loss:47807.4335, G loss:2787.2448, D loss:8.3074, reg loss:544.3874
+test: movie: hr:0.2961,ndcg:0.1644,mrr:0.1244, book: hr:0.3349,ndcg:0.1956,mrr:0.1532
+epoch:102, self loss:46233.7093, cross loss:46533.4393, G loss:2787.7480, D loss:10.0506, reg loss:530.1326
+test: movie: hr:0.2953,ndcg:0.1646,mrr:0.1249, book: hr:0.3369,ndcg:0.1957,mrr:0.1527
+epoch:103, self loss:46110.2581, cross loss:46424.2353, G loss:2778.4387, D loss:9.6460, reg loss:512.4527
+test: movie: hr:0.2957,ndcg:0.1662,mrr:0.1269, book: hr:0.3411,ndcg:0.1971,mrr:0.1533
+epoch:104, self loss:46221.0352, cross loss:46513.6730, G loss:2790.5895, D loss:10.4044, reg loss:517.3244
+test: movie: hr:0.2965,ndcg:0.1657,mrr:0.1259, book: hr:0.3372,ndcg:0.1959,mrr:0.1528
+epoch:105, self loss:47642.4212, cross loss:47970.3856, G loss:2798.5550, D loss:8.7806, reg loss:530.0141
+test: movie: hr:0.2976,ndcg:0.1665,mrr:0.1267, book: hr:0.3387,ndcg:0.1964,mrr:0.1530
+epoch:106, self loss:46690.1691, cross loss:46974.5810, G loss:2802.2351, D loss:10.4977, reg loss:515.0308
+test: movie: hr:0.2997,ndcg:0.1678,mrr:0.1277, book: hr:0.3393,ndcg:0.1972,mrr:0.1539
+epoch:107, self loss:46715.9694, cross loss:47048.2443, G loss:2805.2604, D loss:9.9971, reg loss:517.8042
+test: movie: hr:0.3005,ndcg:0.1681,mrr:0.1279, book: hr:0.3389,ndcg:0.1981,mrr:0.1552
+epoch:108, self loss:46727.4777, cross loss:47146.0239, G loss:2789.8575, D loss:9.0236, reg loss:514.0326
+test: movie: hr:0.2993,ndcg:0.1686,mrr:0.1289, book: hr:0.3410,ndcg:0.1983,mrr:0.1548
+epoch:109, self loss:46094.5481, cross loss:46360.4029, G loss:2774.1048, D loss:10.4093, reg loss:498.6806
+test: movie: hr:0.3032,ndcg:0.1696,mrr:0.1291, book: hr:0.3418,ndcg:0.1999,mrr:0.1565
+epoch:110, self loss:46522.5145, cross loss:46943.4760, G loss:2773.4607, D loss:9.6369, reg loss:504.5105
+test: movie: hr:0.3026,ndcg:0.1697,mrr:0.1293, book: hr:0.3393,ndcg:0.1986,mrr:0.1556
+epoch:111, self loss:46211.0992, cross loss:46631.2622, G loss:2785.8522, D loss:8.5070, reg loss:498.2832
+test: movie: hr:0.3014,ndcg:0.1699,mrr:0.1299, book: hr:0.3397,ndcg:0.1993,mrr:0.1565
+epoch:112, self loss:45789.2259, cross loss:46181.8924, G loss:2795.7511, D loss:10.0433, reg loss:493.2334
+test: movie: hr:0.3054,ndcg:0.1712,mrr:0.1305, book: hr:0.3431,ndcg:0.2003,mrr:0.1567
+epoch:113, self loss:46432.0342, cross loss:46815.0812, G loss:2781.7394, D loss:10.4440, reg loss:489.9264
+test: movie: hr:0.3040,ndcg:0.1706,mrr:0.1300, book: hr:0.3443,ndcg:0.2010,mrr:0.1573
+epoch:114, self loss:45963.8033, cross loss:46392.4134, G loss:2807.8087, D loss:9.1543, reg loss:481.0935
+test: movie: hr:0.3067,ndcg:0.1724,mrr:0.1317, book: hr:0.3444,ndcg:0.2015,mrr:0.1580
+epoch:115, self loss:45852.5126, cross loss:46243.4522, G loss:2808.0356, D loss:9.2851, reg loss:474.3164
+test: movie: hr:0.3076,ndcg:0.1732,mrr:0.1323, book: hr:0.3489,ndcg:0.2036,mrr:0.1594
+epoch:116, self loss:46268.9536, cross loss:46728.5525, G loss:2795.2424, D loss:10.6786, reg loss:471.2769
+test: movie: hr:0.3098,ndcg:0.1741,mrr:0.1329, book: hr:0.3492,ndcg:0.2035,mrr:0.1592
+epoch:117, self loss:45940.4782, cross loss:46398.3529, G loss:2798.3591, D loss:9.3476, reg loss:473.3155
+test: movie: hr:0.3096,ndcg:0.1742,mrr:0.1330, book: hr:0.3500,ndcg:0.2044,mrr:0.1602
+epoch:118, self loss:46288.7322, cross loss:46792.0327, G loss:2780.7823, D loss:10.3776, reg loss:466.3969
+test: movie: hr:0.3123,ndcg:0.1754,mrr:0.1338, book: hr:0.3521,ndcg:0.2049,mrr:0.1602
+epoch:119, self loss:45339.3189, cross loss:45796.6435, G loss:2760.5510, D loss:9.7595, reg loss:465.0667
+test: movie: hr:0.3094,ndcg:0.1743,mrr:0.1332, book: hr:0.3516,ndcg:0.2056,mrr:0.1612
+epoch:120, self loss:46358.8298, cross loss:46860.4428, G loss:2774.1142, D loss:9.9687, reg loss:463.1562
+test: movie: hr:0.3121,ndcg:0.1759,mrr:0.1345, book: hr:0.3481,ndcg:0.2045,mrr:0.1607
+epoch:121, self loss:46097.9880, cross loss:46603.5511, G loss:2782.6149, D loss:9.4750, reg loss:465.1865
+test: movie: hr:0.3133,ndcg:0.1768,mrr:0.1353, book: hr:0.3522,ndcg:0.2061,mrr:0.1616
+epoch:122, self loss:45802.4999, cross loss:46322.5472, G loss:2772.7887, D loss:10.9896, reg loss:453.3600
+test: movie: hr:0.3141,ndcg:0.1773,mrr:0.1358, book: hr:0.3529,ndcg:0.2068,mrr:0.1624
+epoch:123, self loss:46027.5888, cross loss:46512.0710, G loss:2745.9831, D loss:11.2444, reg loss:451.0274
+test: movie: hr:0.3162,ndcg:0.1796,mrr:0.1381, book: hr:0.3538,ndcg:0.2076,mrr:0.1631
+epoch:124, self loss:46366.8925, cross loss:46870.5175, G loss:2761.1372, D loss:10.1107, reg loss:455.5281
+test: movie: hr:0.3177,ndcg:0.1794,mrr:0.1374, book: hr:0.3544,ndcg:0.2077,mrr:0.1630
+epoch:125, self loss:45054.4669, cross loss:45550.6644, G loss:2769.0124, D loss:10.6429, reg loss:445.6148
+test: movie: hr:0.3167,ndcg:0.1795,mrr:0.1377, book: hr:0.3564,ndcg:0.2094,mrr:0.1647
+epoch:126, self loss:45180.3783, cross loss:45676.7497, G loss:2785.6221, D loss:10.3352, reg loss:438.7408
+test: movie: hr:0.3168,ndcg:0.1799,mrr:0.1382, book: hr:0.3536,ndcg:0.2078,mrr:0.1634
+epoch:127, self loss:45432.5912, cross loss:45925.9994, G loss:2776.8870, D loss:10.1128, reg loss:437.1769
+test: movie: hr:0.3198,ndcg:0.1813,mrr:0.1392, book: hr:0.3582,ndcg:0.2096,mrr:0.1644
+epoch:128, self loss:45071.6311, cross loss:45567.9469, G loss:2767.2463, D loss:11.5968, reg loss:435.8985
+test: movie: hr:0.3221,ndcg:0.1818,mrr:0.1391, book: hr:0.3560,ndcg:0.2097,mrr:0.1651
+epoch:129, self loss:45896.6850, cross loss:46470.9172, G loss:2758.0535, D loss:10.3280, reg loss:450.4438
+test: movie: hr:0.3205,ndcg:0.1814,mrr:0.1391, book: hr:0.3590,ndcg:0.2101,mrr:0.1648
+epoch:130, self loss:45674.6551, cross loss:46375.8495, G loss:2769.2296, D loss:9.2538, reg loss:476.3471
+test: movie: hr:0.3227,ndcg:0.1822,mrr:0.1395, book: hr:0.3574,ndcg:0.2103,mrr:0.1654
+epoch:131, self loss:45199.7235, cross loss:45835.9033, G loss:2751.2815, D loss:12.9304, reg loss:444.9777
+test: movie: hr:0.3220,ndcg:0.1833,mrr:0.1411, book: hr:0.3605,ndcg:0.2118,mrr:0.1666
+epoch:132, self loss:45784.0156, cross loss:46336.2455, G loss:2762.7716, D loss:11.9296, reg loss:438.8676
+test: movie: hr:0.3259,ndcg:0.1854,mrr:0.1427, book: hr:0.3607,ndcg:0.2119,mrr:0.1667
+epoch:133, self loss:45328.8613, cross loss:45924.8712, G loss:2762.2275, D loss:12.3665, reg loss:436.5135
+test: movie: hr:0.3234,ndcg:0.1837,mrr:0.1413, book: hr:0.3619,ndcg:0.2134,mrr:0.1682
+epoch:134, self loss:46058.7438, cross loss:46663.5541, G loss:2754.7675, D loss:10.0889, reg loss:442.1298
+test: movie: hr:0.3258,ndcg:0.1852,mrr:0.1425, book: hr:0.3623,ndcg:0.2125,mrr:0.1669
+epoch:135, self loss:45239.7590, cross loss:45801.6088, G loss:2778.4917, D loss:10.4016, reg loss:436.3230
+test: movie: hr:0.3279,ndcg:0.1869,mrr:0.1440, book: hr:0.3627,ndcg:0.2128,mrr:0.1672
+epoch:136, self loss:44202.4046, cross loss:44773.6445, G loss:2765.0272, D loss:12.1820, reg loss:424.0923
+test: movie: hr:0.3264,ndcg:0.1873,mrr:0.1449, book: hr:0.3624,ndcg:0.2142,mrr:0.1691
+epoch:137, self loss:45267.9737, cross loss:45867.1271, G loss:2776.1785, D loss:10.3581, reg loss:434.8637
+test: movie: hr:0.3302,ndcg:0.1881,mrr:0.1449, book: hr:0.3639,ndcg:0.2141,mrr:0.1685
+epoch:138, self loss:45422.1985, cross loss:45993.9184, G loss:2783.1872, D loss:10.3426, reg loss:430.0725
+test: movie: hr:0.3271,ndcg:0.1876,mrr:0.1451, book: hr:0.3657,ndcg:0.2149,mrr:0.1691
+epoch:139, self loss:44471.6308, cross loss:45032.6847, G loss:2775.8649, D loss:9.7368, reg loss:424.2262
+test: movie: hr:0.3329,ndcg:0.1897,mrr:0.1461, book: hr:0.3671,ndcg:0.2156,mrr:0.1695
+epoch:140, self loss:44446.9683, cross loss:44990.2072, G loss:2767.1517, D loss:11.4589, reg loss:422.1878
+test: movie: hr:0.3322,ndcg:0.1898,mrr:0.1464, book: hr:0.3651,ndcg:0.2141,mrr:0.1681
+epoch:141, self loss:44903.8633, cross loss:45432.5975, G loss:2773.9943, D loss:11.9355, reg loss:421.6039
+test: movie: hr:0.3353,ndcg:0.1923,mrr:0.1488, book: hr:0.3678,ndcg:0.2170,mrr:0.1712
+epoch:142, self loss:45502.4271, cross loss:46092.2263, G loss:2758.9539, D loss:12.2920, reg loss:429.4434
+test: movie: hr:0.3348,ndcg:0.1918,mrr:0.1483, book: hr:0.3668,ndcg:0.2161,mrr:0.1703
+epoch:143, self loss:44595.3566, cross loss:45191.4133, G loss:2752.0909, D loss:11.5707, reg loss:434.2031
+test: movie: hr:0.3363,ndcg:0.1933,mrr:0.1498, book: hr:0.3684,ndcg:0.2177,mrr:0.1718
+epoch:144, self loss:44178.2444, cross loss:44815.0776, G loss:2764.5683, D loss:11.3474, reg loss:426.7869
+test: movie: hr:0.3349,ndcg:0.1934,mrr:0.1502, book: hr:0.3716,ndcg:0.2183,mrr:0.1717
+epoch:145, self loss:43544.2186, cross loss:44157.9931, G loss:2775.8236, D loss:11.2041, reg loss:421.4813
+test: movie: hr:0.3400,ndcg:0.1956,mrr:0.1517, book: hr:0.3684,ndcg:0.2179,mrr:0.1721
+epoch:146, self loss:44270.0354, cross loss:44893.4158, G loss:2758.9839, D loss:12.4633, reg loss:420.0772
+test: movie: hr:0.3411,ndcg:0.1967,mrr:0.1527, book: hr:0.3714,ndcg:0.2195,mrr:0.1733
+epoch:147, self loss:44890.0609, cross loss:45574.6689, G loss:2747.7639, D loss:12.8399, reg loss:425.9376
+test: movie: hr:0.3447,ndcg:0.1983,mrr:0.1538, book: hr:0.3714,ndcg:0.2192,mrr:0.1730
+epoch:148, self loss:43880.8745, cross loss:44461.1605, G loss:2755.7074, D loss:11.1920, reg loss:417.2866
+test: movie: hr:0.3471,ndcg:0.1992,mrr:0.1543, book: hr:0.3720,ndcg:0.2196,mrr:0.1732
+epoch:149, self loss:44354.5328, cross loss:44974.1265, G loss:2773.8141, D loss:10.9754, reg loss:427.2926
+test: movie: hr:0.3456,ndcg:0.2001,mrr:0.1557, book: hr:0.3739,ndcg:0.2199,mrr:0.1731
+epoch:150, self loss:43706.4170, cross loss:44295.1612, G loss:2768.5791, D loss:10.4751, reg loss:419.0128
+test: movie: hr:0.3480,ndcg:0.2006,mrr:0.1557, book: hr:0.3739,ndcg:0.2217,mrr:0.1755
+epoch:151, self loss:44155.0901, cross loss:44734.3131, G loss:2749.6347, D loss:12.6984, reg loss:423.3317
+test: movie: hr:0.3478,ndcg:0.2023,mrr:0.1579, book: hr:0.3723,ndcg:0.2207,mrr:0.1746
+epoch:152, self loss:44360.9513, cross loss:45023.3192, G loss:2751.9793, D loss:13.2307, reg loss:435.2186
+test: movie: hr:0.3494,ndcg:0.2027,mrr:0.1580, book: hr:0.3756,ndcg:0.2222,mrr:0.1755
+epoch:153, self loss:43683.7537, cross loss:44359.6844, G loss:2781.9981, D loss:11.7911, reg loss:435.2438
+test: movie: hr:0.3520,ndcg:0.2042,mrr:0.1591, book: hr:0.3773,ndcg:0.2242,mrr:0.1775
+epoch:154, self loss:44582.2757, cross loss:45399.0179, G loss:2804.1970, D loss:10.8241, reg loss:458.1536
+test: movie: hr:0.3515,ndcg:0.2038,mrr:0.1588, book: hr:0.3769,ndcg:0.2234,mrr:0.1766
+epoch:155, self loss:43817.7651, cross loss:44493.3678, G loss:2822.7624, D loss:10.7526, reg loss:436.4134
+test: movie: hr:0.3530,ndcg:0.2059,mrr:0.1611, book: hr:0.3754,ndcg:0.2238,mrr:0.1776
+epoch:156, self loss:43298.2780, cross loss:43994.5673, G loss:2836.7892, D loss:10.9997, reg loss:437.6262
+test: movie: hr:0.3542,ndcg:0.2065,mrr:0.1615, book: hr:0.3792,ndcg:0.2248,mrr:0.1777
+epoch:157, self loss:43175.2291, cross loss:43885.6996, G loss:2842.5062, D loss:10.0552, reg loss:420.6912
+test: movie: hr:0.3541,ndcg:0.2080,mrr:0.1635, book: hr:0.3795,ndcg:0.2255,mrr:0.1786
+epoch:158, self loss:43014.5471, cross loss:43710.2667, G loss:2823.2458, D loss:10.3207, reg loss:416.0069
+test: movie: hr:0.3569,ndcg:0.2096,mrr:0.1647, book: hr:0.3829,ndcg:0.2273,mrr:0.1800
+epoch:159, self loss:43459.6656, cross loss:44185.0457, G loss:2814.8710, D loss:9.9761, reg loss:414.7945
+test: movie: hr:0.3581,ndcg:0.2103,mrr:0.1652, book: hr:0.3830,ndcg:0.2272,mrr:0.1798
+epoch:160, self loss:43184.6001, cross loss:43906.8698, G loss:2809.0503, D loss:10.9044, reg loss:414.2858
+test: movie: hr:0.3597,ndcg:0.2117,mrr:0.1666, book: hr:0.3820,ndcg:0.2279,mrr:0.1810
+epoch:161, self loss:43353.2424, cross loss:44070.7811, G loss:2782.5761, D loss:12.5243, reg loss:414.2456
+test: movie: hr:0.3630,ndcg:0.2123,mrr:0.1663, book: hr:0.3866,ndcg:0.2303,mrr:0.1828
+epoch:162, self loss:43599.7374, cross loss:44372.9945, G loss:2772.8017, D loss:11.7988, reg loss:431.2945
+test: movie: hr:0.3651,ndcg:0.2155,mrr:0.1700, book: hr:0.3869,ndcg:0.2296,mrr:0.1817
+epoch:163, self loss:43236.7365, cross loss:44038.1694, G loss:2757.8515, D loss:13.7831, reg loss:431.8489
+test: movie: hr:0.3657,ndcg:0.2172,mrr:0.1719, book: hr:0.3875,ndcg:0.2301,mrr:0.1823
+epoch:164, self loss:42588.6589, cross loss:43387.8633, G loss:2734.6372, D loss:14.5594, reg loss:422.0809
+test: movie: hr:0.3685,ndcg:0.2184,mrr:0.1726, book: hr:0.3882,ndcg:0.2307,mrr:0.1827
+epoch:165, self loss:42412.7349, cross loss:43227.9023, G loss:2740.8711, D loss:13.5597, reg loss:416.5321
+test: movie: hr:0.3713,ndcg:0.2203,mrr:0.1743, book: hr:0.3921,ndcg:0.2321,mrr:0.1835
+epoch:166, self loss:42995.6767, cross loss:43837.4475, G loss:2759.6816, D loss:12.7398, reg loss:422.8163
+test: movie: hr:0.3739,ndcg:0.2228,mrr:0.1767, book: hr:0.3913,ndcg:0.2323,mrr:0.1838
+epoch:167, self loss:42279.1287, cross loss:43142.1768, G loss:2745.0942, D loss:15.7981, reg loss:422.0894
+test: movie: hr:0.3755,ndcg:0.2230,mrr:0.1765, book: hr:0.3920,ndcg:0.2335,mrr:0.1853
+epoch:168, self loss:42413.7267, cross loss:43249.3809, G loss:2732.7544, D loss:13.9382, reg loss:423.7901
+test: movie: hr:0.3773,ndcg:0.2231,mrr:0.1761, book: hr:0.3963,ndcg:0.2357,mrr:0.1869
+epoch:169, self loss:42692.0977, cross loss:43616.8178, G loss:2749.4949, D loss:12.0073, reg loss:430.1160
+test: movie: hr:0.3784,ndcg:0.2248,mrr:0.1780, book: hr:0.3970,ndcg:0.2367,mrr:0.1878
+epoch:170, self loss:42600.4003, cross loss:43647.3308, G loss:2751.1682, D loss:11.0246, reg loss:459.5362
+test: movie: hr:0.3824,ndcg:0.2267,mrr:0.1793, book: hr:0.3975,ndcg:0.2371,mrr:0.1881
+epoch:171, self loss:42029.7099, cross loss:43359.1822, G loss:2759.4709, D loss:13.7702, reg loss:496.5160
+test: movie: hr:0.3816,ndcg:0.2269,mrr:0.1797, book: hr:0.3993,ndcg:0.2390,mrr:0.1902
+epoch:172, self loss:42293.0069, cross loss:43270.8485, G loss:2748.0962, D loss:15.5289, reg loss:436.8414
+test: movie: hr:0.3869,ndcg:0.2302,mrr:0.1824, book: hr:0.4003,ndcg:0.2388,mrr:0.1896
+epoch:173, self loss:42456.5160, cross loss:43382.4916, G loss:2762.5599, D loss:13.9207, reg loss:425.5848
+test: movie: hr:0.3894,ndcg:0.2317,mrr:0.1836, book: hr:0.4009,ndcg:0.2397,mrr:0.1906
+epoch:174, self loss:42137.6218, cross loss:42957.8566, G loss:2762.6437, D loss:12.2437, reg loss:419.5302
+test: movie: hr:0.3881,ndcg:0.2312,mrr:0.1834, book: hr:0.4027,ndcg:0.2405,mrr:0.1911
+epoch:175, self loss:41443.2467, cross loss:42340.5858, G loss:2772.0818, D loss:10.0517, reg loss:413.9615
+test: movie: hr:0.3928,ndcg:0.2353,mrr:0.1872, book: hr:0.4060,ndcg:0.2424,mrr:0.1926
+epoch:176, self loss:42465.3578, cross loss:43529.0598, G loss:2779.3245, D loss:12.9044, reg loss:442.5093
+test: movie: hr:0.3944,ndcg:0.2359,mrr:0.1875, book: hr:0.4062,ndcg:0.2421,mrr:0.1921
+epoch:177, self loss:42107.8269, cross loss:43066.0359, G loss:2793.5542, D loss:12.5583, reg loss:428.4949
+test: movie: hr:0.3983,ndcg:0.2376,mrr:0.1885, book: hr:0.4077,ndcg:0.2442,mrr:0.1944
+epoch:178, self loss:42104.1453, cross loss:43019.4559, G loss:2802.9431, D loss:13.0668, reg loss:418.6559
+test: movie: hr:0.3998,ndcg:0.2397,mrr:0.1908, book: hr:0.4124,ndcg:0.2465,mrr:0.1960
+epoch:179, self loss:41124.1493, cross loss:42000.6047, G loss:2809.5047, D loss:13.9222, reg loss:412.0822
+test: movie: hr:0.4022,ndcg:0.2398,mrr:0.1902, book: hr:0.4106,ndcg:0.2461,mrr:0.1959
+epoch:180, self loss:42290.1186, cross loss:43248.2252, G loss:2795.2724, D loss:12.0904, reg loss:423.4748
+test: movie: hr:0.4028,ndcg:0.2416,mrr:0.1924, book: hr:0.4136,ndcg:0.2476,mrr:0.1970
+epoch:181, self loss:41399.1927, cross loss:42343.8335, G loss:2786.0692, D loss:13.6043, reg loss:422.7598
+test: movie: hr:0.4067,ndcg:0.2438,mrr:0.1941, book: hr:0.4139,ndcg:0.2483,mrr:0.1976
+epoch:182, self loss:41529.9797, cross loss:42429.8935, G loss:2787.0863, D loss:15.6451, reg loss:419.9989
+test: movie: hr:0.4086,ndcg:0.2448,mrr:0.1948, book: hr:0.4164,ndcg:0.2498,mrr:0.1990
+epoch:183, self loss:40855.3733, cross loss:41753.5374, G loss:2778.1541, D loss:14.7452, reg loss:416.8365
+test: movie: hr:0.4113,ndcg:0.2458,mrr:0.1953, book: hr:0.4188,ndcg:0.2500,mrr:0.1985
+epoch:184, self loss:41094.0139, cross loss:41854.1198, G loss:2775.4446, D loss:12.0361, reg loss:415.8922
+test: movie: hr:0.4109,ndcg:0.2475,mrr:0.1975, book: hr:0.4193,ndcg:0.2507,mrr:0.1993
+epoch:185, self loss:41845.0443, cross loss:42713.3521, G loss:2783.3820, D loss:12.1944, reg loss:415.7774
+test: movie: hr:0.4147,ndcg:0.2487,mrr:0.1980, book: hr:0.4177,ndcg:0.2518,mrr:0.2012
+epoch:186, self loss:40931.7795, cross loss:41750.7178, G loss:2781.7563, D loss:14.5435, reg loss:413.3937
+test: movie: hr:0.4172,ndcg:0.2494,mrr:0.1982, book: hr:0.4194,ndcg:0.2522,mrr:0.2011
+epoch:187, self loss:40630.1738, cross loss:41441.6672, G loss:2785.0691, D loss:11.4303, reg loss:415.7947
+test: movie: hr:0.4189,ndcg:0.2516,mrr:0.2005, book: hr:0.4213,ndcg:0.2541,mrr:0.2031
+epoch:188, self loss:41202.3419, cross loss:41941.8781, G loss:2781.3608, D loss:14.0283, reg loss:414.0455
+test: movie: hr:0.4183,ndcg:0.2510,mrr:0.1998, book: hr:0.4234,ndcg:0.2555,mrr:0.2043
+epoch:189, self loss:40830.0694, cross loss:41724.4149, G loss:2786.9526, D loss:12.8977, reg loss:424.1481
+test: movie: hr:0.4206,ndcg:0.2542,mrr:0.2033, book: hr:0.4235,ndcg:0.2543,mrr:0.2026
+epoch:190, self loss:40770.0908, cross loss:41692.4354, G loss:2780.5647, D loss:13.9242, reg loss:420.5314
+test: movie: hr:0.4243,ndcg:0.2556,mrr:0.2040, book: hr:0.4262,ndcg:0.2556,mrr:0.2036
+epoch:191, self loss:40796.8047, cross loss:41679.7292, G loss:2778.3202, D loss:14.6094, reg loss:419.3119
+test: movie: hr:0.4256,ndcg:0.2567,mrr:0.2050, book: hr:0.4260,ndcg:0.2571,mrr:0.2056
+epoch:192, self loss:40241.4792, cross loss:41061.0952, G loss:2767.9617, D loss:14.1473, reg loss:409.3472
+test: movie: hr:0.4298,ndcg:0.2585,mrr:0.2062, book: hr:0.4289,ndcg:0.2581,mrr:0.2060
+epoch:193, self loss:40179.4131, cross loss:41074.2040, G loss:2766.2221, D loss:15.3190, reg loss:408.9096
+test: movie: hr:0.4337,ndcg:0.2612,mrr:0.2086, book: hr:0.4281,ndcg:0.2583,mrr:0.2065
+epoch:194, self loss:39869.4301, cross loss:40739.1618, G loss:2768.4290, D loss:14.6170, reg loss:399.8507
+test: movie: hr:0.4329,ndcg:0.2611,mrr:0.2086, book: hr:0.4303,ndcg:0.2605,mrr:0.2086
+epoch:195, self loss:40236.3155, cross loss:41085.0507, G loss:2758.1577, D loss:13.5151, reg loss:416.0026
+test: movie: hr:0.4322,ndcg:0.2617,mrr:0.2097, book: hr:0.4326,ndcg:0.2609,mrr:0.2085
+epoch:196, self loss:39865.8736, cross loss:40641.6134, G loss:2770.0309, D loss:12.5121, reg loss:409.7478
+test: movie: hr:0.4362,ndcg:0.2635,mrr:0.2107, book: hr:0.4372,ndcg:0.2632,mrr:0.2102
+epoch:197, self loss:39937.5250, cross loss:40788.8556, G loss:2778.6974, D loss:14.5680, reg loss:403.4219
+test: movie: hr:0.4355,ndcg:0.2638,mrr:0.2114, book: hr:0.4340,ndcg:0.2625,mrr:0.2102
+epoch:198, self loss:40004.3464, cross loss:40780.6993, G loss:2778.7667, D loss:15.0263, reg loss:402.0637
+test: movie: hr:0.4405,ndcg:0.2658,mrr:0.2124, book: hr:0.4342,ndcg:0.2635,mrr:0.2114
+epoch:199, self loss:39598.8393, cross loss:40372.8608, G loss:2789.5455, D loss:12.4977, reg loss:397.7712
+test: movie: hr:0.4388,ndcg:0.2653,mrr:0.2122, book: hr:0.4386,ndcg:0.2640,mrr:0.2107
+epoch:200, self loss:40194.9757, cross loss:41029.5723, G loss:2796.5511, D loss:15.0502, reg loss:398.5201
+test: movie: hr:0.4417,ndcg:0.2671,mrr:0.2136, book: hr:0.4399,ndcg:0.2651,mrr:0.2118
+epoch:201, self loss:39750.5873, cross loss:40524.8705, G loss:2805.0309, D loss:13.8892, reg loss:397.0552
+test: movie: hr:0.4436,ndcg:0.2687,mrr:0.2152, book: hr:0.4401,ndcg:0.2657,mrr:0.2126
+epoch:202, self loss:40012.0815, cross loss:40869.5420, G loss:2793.2827, D loss:13.2507, reg loss:406.5502
+test: movie: hr:0.4458,ndcg:0.2698,mrr:0.2160, book: hr:0.4398,ndcg:0.2674,mrr:0.2148
+epoch:203, self loss:39317.3665, cross loss:40167.8566, G loss:2780.2120, D loss:12.6379, reg loss:405.8486
+test: movie: hr:0.4470,ndcg:0.2708,mrr:0.2169, book: hr:0.4416,ndcg:0.2671,mrr:0.2138
+epoch:204, self loss:39421.1027, cross loss:40283.8646, G loss:2793.0531, D loss:13.1211, reg loss:389.4925
+test: movie: hr:0.4494,ndcg:0.2709,mrr:0.2164, book: hr:0.4429,ndcg:0.2678,mrr:0.2142
+epoch:205, self loss:39419.5978, cross loss:40354.3763, G loss:2801.0936, D loss:15.2898, reg loss:406.6940
+test: movie: hr:0.4543,ndcg:0.2753,mrr:0.2206, book: hr:0.4439,ndcg:0.2695,mrr:0.2163
+epoch:206, self loss:39327.7853, cross loss:40344.2402, G loss:2800.5244, D loss:13.6238, reg loss:426.4109
+test: movie: hr:0.4540,ndcg:0.2748,mrr:0.2201, book: hr:0.4463,ndcg:0.2706,mrr:0.2169
+epoch:207, self loss:39588.0542, cross loss:40575.4545, G loss:2808.0108, D loss:14.1686, reg loss:443.2229
+test: movie: hr:0.4555,ndcg:0.2757,mrr:0.2207, book: hr:0.4485,ndcg:0.2713,mrr:0.2171
+epoch:208, self loss:39324.8970, cross loss:40199.6909, G loss:2811.1706, D loss:14.2812, reg loss:400.4816
+test: movie: hr:0.4560,ndcg:0.2765,mrr:0.2216, book: hr:0.4519,ndcg:0.2730,mrr:0.2184
+epoch:209, self loss:38838.0963, cross loss:39654.7280, G loss:2808.6604, D loss:12.7247, reg loss:388.2859
+test: movie: hr:0.4574,ndcg:0.2778,mrr:0.2229, book: hr:0.4513,ndcg:0.2734,mrr:0.2190
+epoch:210, self loss:39139.1053, cross loss:39932.9456, G loss:2815.0727, D loss:13.6221, reg loss:386.4370
+test: movie: hr:0.4579,ndcg:0.2783,mrr:0.2233, book: hr:0.4523,ndcg:0.2747,mrr:0.2204
+epoch:211, self loss:38625.1809, cross loss:39351.4316, G loss:2800.9460, D loss:14.5094, reg loss:385.3598
+test: movie: hr:0.4599,ndcg:0.2792,mrr:0.2239, book: hr:0.4530,ndcg:0.2763,mrr:0.2223
+epoch:212, self loss:38224.5583, cross loss:38924.0713, G loss:2808.3855, D loss:15.9727, reg loss:380.5010
+test: movie: hr:0.4624,ndcg:0.2796,mrr:0.2236, book: hr:0.4570,ndcg:0.2779,mrr:0.2232
+epoch:213, self loss:38699.4082, cross loss:39486.3125, G loss:2802.1613, D loss:15.5607, reg loss:379.0868
+test: movie: hr:0.4634,ndcg:0.2814,mrr:0.2256, book: hr:0.4558,ndcg:0.2775,mrr:0.2230
+epoch:214, self loss:38069.9807, cross loss:39008.0749, G loss:2786.4917, D loss:13.0101, reg loss:402.9380
+test: movie: hr:0.4656,ndcg:0.2829,mrr:0.2270, book: hr:0.4574,ndcg:0.2781,mrr:0.2233
+epoch:215, self loss:38883.1773, cross loss:39681.2588, G loss:2797.8187, D loss:12.4120, reg loss:386.5546
+test: movie: hr:0.4683,ndcg:0.2840,mrr:0.2277, book: hr:0.4584,ndcg:0.2798,mrr:0.2253
+epoch:216, self loss:38426.8360, cross loss:39123.1763, G loss:2792.8607, D loss:14.8497, reg loss:377.2397
+test: movie: hr:0.4664,ndcg:0.2841,mrr:0.2283, book: hr:0.4573,ndcg:0.2795,mrr:0.2251
+epoch:217, self loss:38231.0815, cross loss:38934.5765, G loss:2784.3314, D loss:14.1643, reg loss:373.0414
+test: movie: hr:0.4678,ndcg:0.2853,mrr:0.2294, book: hr:0.4601,ndcg:0.2797,mrr:0.2244
+epoch:218, self loss:38689.0685, cross loss:39358.0313, G loss:2796.9605, D loss:15.7332, reg loss:369.5415
+test: movie: hr:0.4705,ndcg:0.2856,mrr:0.2291, book: hr:0.4579,ndcg:0.2795,mrr:0.2249
+epoch:219, self loss:37613.2932, cross loss:38310.4544, G loss:2806.6030, D loss:12.6110, reg loss:366.8740
+test: movie: hr:0.4717,ndcg:0.2874,mrr:0.2311, book: hr:0.4604,ndcg:0.2830,mrr:0.2288
+epoch:220, self loss:38393.9288, cross loss:39049.8201, G loss:2816.7371, D loss:13.9230, reg loss:368.8493
+test: movie: hr:0.4725,ndcg:0.2882,mrr:0.2318, book: hr:0.4618,ndcg:0.2826,mrr:0.2278
+epoch:221, self loss:38403.4752, cross loss:39486.7342, G loss:2804.5548, D loss:14.6490, reg loss:473.4168
+test: movie: hr:0.4733,ndcg:0.2872,mrr:0.2304, book: hr:0.4629,ndcg:0.2826,mrr:0.2273
+epoch:222, self loss:38078.5478, cross loss:38885.3579, G loss:2801.3291, D loss:15.4681, reg loss:421.2130
+test: movie: hr:0.4726,ndcg:0.2870,mrr:0.2303, book: hr:0.4643,ndcg:0.2842,mrr:0.2290
+epoch:223, self loss:37987.2738, cross loss:38730.1875, G loss:2802.5289, D loss:16.6297, reg loss:364.3534
+test: movie: hr:0.4729,ndcg:0.2884,mrr:0.2319, book: hr:0.4654,ndcg:0.2858,mrr:0.2307
+epoch:224, self loss:38026.9215, cross loss:38676.0248, G loss:2816.8200, D loss:15.1103, reg loss:359.9907
+test: movie: hr:0.4759,ndcg:0.2905,mrr:0.2336, book: hr:0.4662,ndcg:0.2848,mrr:0.2293
+epoch:225, self loss:37907.8560, cross loss:38600.0740, G loss:2811.8159, D loss:14.4579, reg loss:362.2012
+test: movie: hr:0.4769,ndcg:0.2915,mrr:0.2346, book: hr:0.4672,ndcg:0.2862,mrr:0.2308
+epoch:226, self loss:37301.8265, cross loss:37999.3934, G loss:2815.4626, D loss:13.6145, reg loss:370.1235
+test: movie: hr:0.4790,ndcg:0.2927,mrr:0.2357, book: hr:0.4682,ndcg:0.2871,mrr:0.2317
+epoch:227, self loss:37513.0091, cross loss:38157.3809, G loss:2814.2249, D loss:15.3211, reg loss:361.2993
+test: movie: hr:0.4820,ndcg:0.2935,mrr:0.2358, book: hr:0.4712,ndcg:0.2885,mrr:0.2326
+epoch:228, self loss:37103.4019, cross loss:37772.3594, G loss:2820.5450, D loss:15.6455, reg loss:371.7828
+test: movie: hr:0.4821,ndcg:0.2946,mrr:0.2371, book: hr:0.4695,ndcg:0.2883,mrr:0.2328
+epoch:229, self loss:36981.0558, cross loss:37681.3844, G loss:2820.0971, D loss:15.1243, reg loss:352.3072
+test: movie: hr:0.4785,ndcg:0.2933,mrr:0.2365, book: hr:0.4703,ndcg:0.2888,mrr:0.2333
+epoch:230, self loss:37269.3701, cross loss:37947.0472, G loss:2814.2854, D loss:14.3211, reg loss:352.5260
+test: movie: hr:0.4849,ndcg:0.2965,mrr:0.2388, book: hr:0.4740,ndcg:0.2910,mrr:0.2350
+epoch:231, self loss:36984.3973, cross loss:37589.7765, G loss:2824.6779, D loss:16.0778, reg loss:350.9678
+test: movie: hr:0.4836,ndcg:0.2959,mrr:0.2384, book: hr:0.4716,ndcg:0.2896,mrr:0.2338
+epoch:232, self loss:36913.0630, cross loss:37506.5349, G loss:2829.6629, D loss:15.4099, reg loss:345.0023
+test: movie: hr:0.4845,ndcg:0.2972,mrr:0.2398, book: hr:0.4725,ndcg:0.2911,mrr:0.2356
+epoch:233, self loss:36440.0427, cross loss:37038.7376, G loss:2816.7525, D loss:14.9510, reg loss:338.5947
+test: movie: hr:0.4859,ndcg:0.2976,mrr:0.2400, book: hr:0.4748,ndcg:0.2922,mrr:0.2363
+epoch:234, self loss:36471.1416, cross loss:37140.7753, G loss:2825.4555, D loss:13.7070, reg loss:344.3102
+test: movie: hr:0.4860,ndcg:0.2975,mrr:0.2397, book: hr:0.4760,ndcg:0.2925,mrr:0.2363
+epoch:235, self loss:36560.4385, cross loss:37227.7590, G loss:2821.1239, D loss:16.1721, reg loss:357.5253
+test: movie: hr:0.4886,ndcg:0.2995,mrr:0.2416, book: hr:0.4774,ndcg:0.2929,mrr:0.2365
+epoch:236, self loss:36752.0443, cross loss:37397.0124, G loss:2816.0385, D loss:16.3607, reg loss:338.0845
+test: movie: hr:0.4889,ndcg:0.2999,mrr:0.2421, book: hr:0.4773,ndcg:0.2920,mrr:0.2353
+epoch:237, self loss:36680.3450, cross loss:37266.7426, G loss:2811.9810, D loss:17.5629, reg loss:343.1156
+test: movie: hr:0.4881,ndcg:0.3001,mrr:0.2425, book: hr:0.4763,ndcg:0.2926,mrr:0.2364
+epoch:238, self loss:36601.0915, cross loss:37209.7011, G loss:2806.9855, D loss:16.0252, reg loss:351.6780
+test: movie: hr:0.4897,ndcg:0.2992,mrr:0.2409, book: hr:0.4775,ndcg:0.2941,mrr:0.2380
+epoch:239, self loss:36173.9082, cross loss:36789.5616, G loss:2805.4493, D loss:16.4005, reg loss:338.6581
+test: movie: hr:0.4927,ndcg:0.3016,mrr:0.2430, book: hr:0.4807,ndcg:0.2957,mrr:0.2391
+epoch:240, self loss:36406.7051, cross loss:37090.4284, G loss:2811.9463, D loss:16.3008, reg loss:342.6165
+test: movie: hr:0.4967,ndcg:0.3026,mrr:0.2433, book: hr:0.4818,ndcg:0.2942,mrr:0.2368
+epoch:241, self loss:36107.3705, cross loss:36643.4180, G loss:2815.7213, D loss:14.0768, reg loss:334.1806
+test: movie: hr:0.4936,ndcg:0.3030,mrr:0.2447, book: hr:0.4814,ndcg:0.2957,mrr:0.2388
+epoch:242, self loss:36252.4476, cross loss:36787.1291, G loss:2822.8208, D loss:13.6655, reg loss:323.0411
+test: movie: hr:0.4950,ndcg:0.3033,mrr:0.2446, book: hr:0.4816,ndcg:0.2967,mrr:0.2401
+epoch:243, self loss:35646.0046, cross loss:36220.6293, G loss:2831.9922, D loss:14.7291, reg loss:324.6294
+test: movie: hr:0.4945,ndcg:0.3029,mrr:0.2442, book: hr:0.4822,ndcg:0.2968,mrr:0.2400
+epoch:244, self loss:35635.9261, cross loss:36193.2967, G loss:2832.6278, D loss:13.5916, reg loss:322.9146
+test: movie: hr:0.4956,ndcg:0.3029,mrr:0.2438, book: hr:0.4819,ndcg:0.2967,mrr:0.2401
+epoch:245, self loss:35567.5076, cross loss:36181.3875, G loss:2840.2538, D loss:14.6317, reg loss:333.8261
+test: movie: hr:0.4950,ndcg:0.3030,mrr:0.2441, book: hr:0.4820,ndcg:0.2969,mrr:0.2402
+epoch:246, self loss:35284.8203, cross loss:35850.2787, G loss:2831.7539, D loss:13.1554, reg loss:328.1164
+test: movie: hr:0.4962,ndcg:0.3037,mrr:0.2447, book: hr:0.4842,ndcg:0.2987,mrr:0.2420
+epoch:247, self loss:35228.2181, cross loss:35737.8815, G loss:2837.4182, D loss:14.9605, reg loss:312.4429
+test: movie: hr:0.4998,ndcg:0.3057,mrr:0.2464, book: hr:0.4855,ndcg:0.2988,mrr:0.2417
+epoch:248, self loss:35410.1570, cross loss:35891.4888, G loss:2840.6126, D loss:16.2599, reg loss:317.2490
+test: movie: hr:0.4979,ndcg:0.3035,mrr:0.2439, book: hr:0.4832,ndcg:0.2974,mrr:0.2404
+epoch:249, self loss:35114.9699, cross loss:35657.0309, G loss:2853.4342, D loss:12.2927, reg loss:324.6212
+test: movie: hr:0.4984,ndcg:0.3052,mrr:0.2460, book: hr:0.4864,ndcg:0.2990,mrr:0.2416
+epoch:250, self loss:35562.1784, cross loss:36187.7054, G loss:2861.4996, D loss:14.2721, reg loss:318.4338
+test: movie: hr:0.4998,ndcg:0.3065,mrr:0.2472, book: hr:0.4868,ndcg:0.3001,mrr:0.2429
+epoch:251, self loss:34900.7043, cross loss:35569.4757, G loss:2842.7099, D loss:16.1355, reg loss:314.0251
+test: movie: hr:0.4999,ndcg:0.3062,mrr:0.2469, book: hr:0.4851,ndcg:0.3007,mrr:0.2442
+epoch:252, self loss:35035.6979, cross loss:35546.2201, G loss:2844.0287, D loss:15.0250, reg loss:310.9604
+test: movie: hr:0.5008,ndcg:0.3074,mrr:0.2482, book: hr:0.4841,ndcg:0.3005,mrr:0.2442
+epoch:253, self loss:34372.8113, cross loss:34867.6305, G loss:2848.0655, D loss:15.9440, reg loss:303.2029
+test: movie: hr:0.5017,ndcg:0.3076,mrr:0.2480, book: hr:0.4852,ndcg:0.2996,mrr:0.2428
+epoch:254, self loss:35031.7927, cross loss:35560.4107, G loss:2853.1677, D loss:14.8887, reg loss:309.2588
+test: movie: hr:0.4998,ndcg:0.3069,mrr:0.2478, book: hr:0.4843,ndcg:0.3002,mrr:0.2437
+epoch:255, self loss:34698.4017, cross loss:35428.5472, G loss:2855.7975, D loss:15.0612, reg loss:318.0336
+test: movie: hr:0.5028,ndcg:0.3087,mrr:0.2492, book: hr:0.4852,ndcg:0.3002,mrr:0.2435
+epoch:256, self loss:34666.6563, cross loss:35240.4005, G loss:2858.9074, D loss:14.3675, reg loss:310.0115
+test: movie: hr:0.5016,ndcg:0.3079,mrr:0.2485, book: hr:0.4879,ndcg:0.3020,mrr:0.2451
+epoch:257, self loss:34754.9898, cross loss:35396.4370, G loss:2844.7283, D loss:16.9055, reg loss:355.4774
+test: movie: hr:0.5037,ndcg:0.3094,mrr:0.2499, book: hr:0.4874,ndcg:0.3015,mrr:0.2446
+epoch:258, self loss:34479.7840, cross loss:35121.0916, G loss:2839.0512, D loss:14.4230, reg loss:338.4101
+test: movie: hr:0.5019,ndcg:0.3093,mrr:0.2502, book: hr:0.4882,ndcg:0.3026,mrr:0.2458
+epoch:259, self loss:34465.1890, cross loss:35022.9995, G loss:2849.2067, D loss:13.6872, reg loss:301.8282
+test: movie: hr:0.5034,ndcg:0.3101,mrr:0.2508, book: hr:0.4886,ndcg:0.3025,mrr:0.2455
+epoch:260, self loss:34200.4299, cross loss:34730.4491, G loss:2863.1198, D loss:15.3773, reg loss:294.0290
+test: movie: hr:0.5008,ndcg:0.3076,mrr:0.2484, book: hr:0.4889,ndcg:0.3017,mrr:0.2444
+epoch:261, self loss:34485.9236, cross loss:35020.5116, G loss:2867.2335, D loss:16.1971, reg loss:286.9514
+test: movie: hr:0.5039,ndcg:0.3091,mrr:0.2494, book: hr:0.4880,ndcg:0.3030,mrr:0.2462
+epoch:262, self loss:33956.8378, cross loss:34503.7489, G loss:2864.1057, D loss:18.0867, reg loss:289.4840
+test: movie: hr:0.5040,ndcg:0.3100,mrr:0.2505, book: hr:0.4898,ndcg:0.3024,mrr:0.2450
+epoch:263, self loss:34505.7024, cross loss:35077.3288, G loss:2851.6319, D loss:14.1524, reg loss:294.6601
+test: movie: hr:0.5035,ndcg:0.3102,mrr:0.2509, book: hr:0.4923,ndcg:0.3052,mrr:0.2478
+epoch:264, self loss:33872.8531, cross loss:34474.7019, G loss:2870.9927, D loss:16.0602, reg loss:299.1077
+test: movie: hr:0.5045,ndcg:0.3099,mrr:0.2502, book: hr:0.4921,ndcg:0.3045,mrr:0.2470
+epoch:265, self loss:34255.0321, cross loss:34817.2739, G loss:2868.2118, D loss:14.1065, reg loss:287.1512
+test: movie: hr:0.5046,ndcg:0.3107,mrr:0.2513, book: hr:0.4915,ndcg:0.3049,mrr:0.2478
+epoch:266, self loss:34601.4891, cross loss:35036.8628, G loss:2860.3044, D loss:15.6560, reg loss:283.5541
+test: movie: hr:0.5057,ndcg:0.3110,mrr:0.2513, book: hr:0.4901,ndcg:0.3045,mrr:0.2476
+epoch:267, self loss:33083.3992, cross loss:33531.9851, G loss:2862.0481, D loss:15.5374, reg loss:276.3960
+test: movie: hr:0.5033,ndcg:0.3106,mrr:0.2514, book: hr:0.4907,ndcg:0.3051,mrr:0.2482
+epoch:268, self loss:33415.2401, cross loss:33905.0937, G loss:2867.7543, D loss:15.6637, reg loss:270.6402
+test: movie: hr:0.5027,ndcg:0.3109,mrr:0.2520, book: hr:0.4899,ndcg:0.3045,mrr:0.2476
+epoch:269, self loss:33267.2523, cross loss:33769.3221, G loss:2860.8467, D loss:14.9123, reg loss:280.8415
+test: movie: hr:0.5024,ndcg:0.3100,mrr:0.2509, book: hr:0.4914,ndcg:0.3044,mrr:0.2471
+epoch:270, self loss:33362.5232, cross loss:33811.6428, G loss:2866.5642, D loss:16.5976, reg loss:282.0450
+test: movie: hr:0.5052,ndcg:0.3124,mrr:0.2532, book: hr:0.4910,ndcg:0.3034,mrr:0.2460
+epoch:271, self loss:33129.8048, cross loss:33582.9700, G loss:2878.4131, D loss:15.2138, reg loss:275.4143
+test: movie: hr:0.5042,ndcg:0.3117,mrr:0.2526, book: hr:0.4909,ndcg:0.3030,mrr:0.2455
+epoch:272, self loss:33280.3299, cross loss:33767.9678, G loss:2873.7633, D loss:15.6192, reg loss:284.9489
+test: movie: hr:0.5052,ndcg:0.3129,mrr:0.2539, book: hr:0.4900,ndcg:0.3040,mrr:0.2469
+epoch:273, self loss:33679.9914, cross loss:34109.1183, G loss:2882.9748, D loss:14.6981, reg loss:272.3869
+test: movie: hr:0.5042,ndcg:0.3127,mrr:0.2538, book: hr:0.4904,ndcg:0.3037,mrr:0.2464
+epoch:274, self loss:33000.3287, cross loss:33455.2286, G loss:2885.2100, D loss:16.6654, reg loss:265.1788
+test: movie: hr:0.5060,ndcg:0.3145,mrr:0.2558, book: hr:0.4913,ndcg:0.3048,mrr:0.2476
+epoch:275, self loss:33425.1379, cross loss:33990.2778, G loss:2884.5161, D loss:16.2082, reg loss:306.6118
+test: movie: hr:0.5061,ndcg:0.3131,mrr:0.2538, book: hr:0.4931,ndcg:0.3060,mrr:0.2487
+epoch:276, self loss:33409.9023, cross loss:33850.1735, G loss:2868.3902, D loss:16.0176, reg loss:285.4823
+test: movie: hr:0.5066,ndcg:0.3141,mrr:0.2550, book: hr:0.4931,ndcg:0.3061,mrr:0.2488
+epoch:277, self loss:32587.2609, cross loss:33107.2147, G loss:2867.2324, D loss:15.5879, reg loss:286.8673
+test: movie: hr:0.5064,ndcg:0.3144,mrr:0.2554, book: hr:0.4938,ndcg:0.3061,mrr:0.2486
+epoch:278, self loss:32640.6728, cross loss:33245.0598, G loss:2888.9385, D loss:16.8543, reg loss:266.9954
+test: movie: hr:0.5061,ndcg:0.3143,mrr:0.2555, book: hr:0.4922,ndcg:0.3062,mrr:0.2493
+epoch:279, self loss:32372.5539, cross loss:32872.2244, G loss:2884.3524, D loss:15.4326, reg loss:259.7318
+test: movie: hr:0.5047,ndcg:0.3136,mrr:0.2549, book: hr:0.4940,ndcg:0.3059,mrr:0.2482
+epoch:280, self loss:32326.6716, cross loss:32824.2056, G loss:2879.3062, D loss:16.8459, reg loss:255.8873
+test: movie: hr:0.5040,ndcg:0.3139,mrr:0.2555, book: hr:0.4915,ndcg:0.3047,mrr:0.2474
+epoch:281, self loss:32432.1940, cross loss:33084.4990, G loss:2868.6126, D loss:17.0296, reg loss:272.0234
+test: movie: hr:0.5058,ndcg:0.3144,mrr:0.2556, book: hr:0.4943,ndcg:0.3071,mrr:0.2498
+epoch:282, self loss:32354.3117, cross loss:32868.3255, G loss:2877.3008, D loss:14.4092, reg loss:262.5602
+test: movie: hr:0.5098,ndcg:0.3159,mrr:0.2564, book: hr:0.4920,ndcg:0.3057,mrr:0.2485
+epoch:283, self loss:32367.5487, cross loss:32864.8694, G loss:2885.7926, D loss:14.7296, reg loss:262.4807
+test: movie: hr:0.5066,ndcg:0.3143,mrr:0.2552, book: hr:0.4929,ndcg:0.3054,mrr:0.2480
+epoch:284, self loss:31731.8263, cross loss:32188.9226, G loss:2893.3447, D loss:16.9070, reg loss:243.1901
+test: movie: hr:0.5088,ndcg:0.3164,mrr:0.2574, book: hr:0.4943,ndcg:0.3062,mrr:0.2486
+epoch:285, self loss:31674.9944, cross loss:32126.8622, G loss:2901.5011, D loss:16.2508, reg loss:252.3433
+test: movie: hr:0.5091,ndcg:0.3153,mrr:0.2559, book: hr:0.4936,ndcg:0.3056,mrr:0.2479
+epoch:286, self loss:31573.6392, cross loss:32075.4807, G loss:2886.2312, D loss:18.2754, reg loss:253.6304
+test: movie: hr:0.5078,ndcg:0.3160,mrr:0.2572, book: hr:0.4950,ndcg:0.3072,mrr:0.2497
+epoch:287, self loss:31832.8434, cross loss:32382.8269, G loss:2883.6887, D loss:14.3080, reg loss:275.7720
+test: movie: hr:0.5082,ndcg:0.3156,mrr:0.2565, book: hr:0.4950,ndcg:0.3077,mrr:0.2502
+epoch:288, self loss:31844.1785, cross loss:32344.3104, G loss:2874.7540, D loss:15.4007, reg loss:260.4022
+test: movie: hr:0.5061,ndcg:0.3148,mrr:0.2561, book: hr:0.4946,ndcg:0.3066,mrr:0.2490
+epoch:289, self loss:31681.1519, cross loss:32081.9600, G loss:2872.9247, D loss:16.7386, reg loss:242.3485
+test: movie: hr:0.5083,ndcg:0.3163,mrr:0.2573, book: hr:0.4920,ndcg:0.3057,mrr:0.2487
+epoch:290, self loss:30988.4549, cross loss:31330.8485, G loss:2879.4903, D loss:15.4484, reg loss:236.4882
+test: movie: hr:0.5085,ndcg:0.3149,mrr:0.2555, book: hr:0.4918,ndcg:0.3052,mrr:0.2479
+epoch:291, self loss:31644.4401, cross loss:32042.2543, G loss:2879.3645, D loss:16.6537, reg loss:232.9545
+test: movie: hr:0.5075,ndcg:0.3163,mrr:0.2575, book: hr:0.4927,ndcg:0.3059,mrr:0.2486
+epoch:292, self loss:31546.2575, cross loss:31993.4723, G loss:2884.9408, D loss:15.0465, reg loss:251.3643
+test: movie: hr:0.5093,ndcg:0.3167,mrr:0.2575, book: hr:0.4928,ndcg:0.3049,mrr:0.2473
+epoch:293, self loss:31388.8408, cross loss:31732.4793, G loss:2887.1254, D loss:16.1914, reg loss:249.7435
+test: movie: hr:0.5074,ndcg:0.3169,mrr:0.2583, book: hr:0.4937,ndcg:0.3058,mrr:0.2482
+epoch:294, self loss:31520.6461, cross loss:31872.9143, G loss:2884.5147, D loss:16.1500, reg loss:249.4519
+test: movie: hr:0.5085,ndcg:0.3171,mrr:0.2582, book: hr:0.4923,ndcg:0.3049,mrr:0.2474
+epoch:295, self loss:31055.6826, cross loss:31553.3962, G loss:2893.5490, D loss:17.4809, reg loss:256.1464
+test: movie: hr:0.5060,ndcg:0.3163,mrr:0.2579, book: hr:0.4940,ndcg:0.3063,mrr:0.2487
+epoch:296, self loss:31432.0815, cross loss:31801.6386, G loss:2888.0252, D loss:17.0111, reg loss:231.6217
+test: movie: hr:0.5096,ndcg:0.3174,mrr:0.2583, book: hr:0.4946,ndcg:0.3066,mrr:0.2490
+epoch:297, self loss:31184.9080, cross loss:31614.6173, G loss:2881.9584, D loss:13.0043, reg loss:227.5505
+test: movie: hr:0.5078,ndcg:0.3164,mrr:0.2575, book: hr:0.4940,ndcg:0.3054,mrr:0.2476
+epoch:298, self loss:30911.0359, cross loss:31351.7762, G loss:2899.5552, D loss:13.1366, reg loss:229.0890
+test: movie: hr:0.5098,ndcg:0.3172,mrr:0.2580, book: hr:0.4929,ndcg:0.3055,mrr:0.2480
+epoch:299, self loss:30635.8795, cross loss:31016.7526, G loss:2884.6314, D loss:16.7122, reg loss:221.1569
+test: movie: hr:0.5096,ndcg:0.3160,mrr:0.2566, book: hr:0.4947,ndcg:0.3054,mrr:0.2474
+best val movie: hr:0.5098,ndcg:0.3174,mrr:0.2583, book: hr:0.4950,ndcg:0.3077,mrr:0.2502
+Test TopK:5 ---> movie: hr:0.4384,ndcg:0.3365,mrr:0.3000, book: hr:0.4421,ndcg:0.3371,mrr:0.3024
+Test TopK:10 ---> movie: hr:0.5658,ndcg:0.3765,mrr:0.3164, book: hr:0.5613,ndcg:0.3756,mrr:0.3183
